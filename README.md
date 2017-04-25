@@ -1,6 +1,6 @@
 # npmtest-rand-token
 
-#### test coverage for  [rand-token (v0.3.0)](https://github.com/sehrope/node-rand-token#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-rand-token.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rand-token) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rand-token.svg)](https://travis-ci.org/npmtest/node-npmtest-rand-token)
+#### basic test coverage for  [rand-token (v0.3.0)](https://github.com/sehrope/node-rand-token#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-rand-token.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rand-token) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rand-token.svg)](https://travis-ci.org/npmtest/node-npmtest-rand-token)
 
 #### Generate random tokens
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-rand-token/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-rand-token/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-rand-token/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-rand-token/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-rand-token/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-rand-token/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-rand-token/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-rand-token/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-rand-token/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-rand-token/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-rand-token/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-rand-token/build/coverage.html/index.html)
 
@@ -83,7 +83,8 @@
     "scripts": {
         "test": "make test"
     },
-    "version": "0.3.0"
+    "version": "0.3.0",
+    "bin": {}
 }
 ```
 

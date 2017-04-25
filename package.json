@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [rand-token (v0.3.0)](https://github.com/sehrope/node-rand-token#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-rand-token.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rand-token) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rand-token.svg)](https://travis-ci.org/npmtest/node-npmtest-rand-token)",
+    "description": "#### basic test coverage for  [rand-token (v0.3.0)](https://github.com/sehrope/node-rand-token#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-rand-token.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rand-token) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rand-token.svg)](https://travis-ci.org/npmtest/node-npmtest-rand-token)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "rand-token": "*",
